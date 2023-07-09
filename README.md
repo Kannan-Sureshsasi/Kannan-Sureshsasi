@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kannan</h1>
-
+<align="center"> <img src="https://github.com/Kannan-Sureshsasi/Kannan-Sureshsasi/assets/138990724/f04c9bce-fd15-4cc0-92d0-584282e2516a">
 <h3 align="center">Passionate full-stack developer specializing in Dotnet</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
