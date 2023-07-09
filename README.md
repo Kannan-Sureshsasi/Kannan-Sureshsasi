@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kannan</h1>
-<div align="center"> <img src=""> </div>
-<h3 align="center">Passionate full-stack developer specializing in Dotnet</h3>
+<div align="center"> <img src="https://github.com/Kannan-Sureshsasi/Kannan-Sureshsasi/assets/138990724/648d730c-403c-4ddb-97ea-29f385f068fd"> </div>
+<h3 align="center">"Passionate Full-stack Developer Specializing in Dotnet"</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" /> </p>
