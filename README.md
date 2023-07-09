@@ -28,6 +28,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannan-sureshsasi&show_icons=true&locale=en&layout=compact" alt="kannan-sureshsasi" />
 </p>
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Kannan-Sureshsasi/Kannan-Sureshsasi/blob/output/github-contribution-grid-snake.svg)
