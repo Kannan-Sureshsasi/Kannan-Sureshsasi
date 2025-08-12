@@ -1,8 +1,9 @@
-<h1 align="center">Hello there! I'm Kannan 👋,</h1>
+<h1 align="center">Hello there! I'm Kannan 👋</h1>
 <div align="center"> <img src="https://github.com/Kannan-Sureshsasi/Kannan-Sureshsasi/assets/138990724/abdb94f4-1d7d-4b40-94bc-728d207e7ad6"> </div>
 <h3 align="left">About Me:</h3>
 
-<h3 align="center">🎓 I’m an MCA Graduate and enthusiastic Fresher 🌱 passionate about Full Stack Development 💻 and Software Testing 🧪. I enjoy creating efficient solutions ⚡, learning new technologies 📚, and I’m eager to contribute my skills 💡 in a dynamic team 🚀</h3>
+<h3 align="center">🎓 I’m an MCA Graduate | 🌱 Fresher passionate about Development 💻 and Software Testing 🧪. I enjoy creating efficient solutions ⚡, learning new technologies 📚, and I’m eager to contribute my skills 💡 in a dynamic team 🚀</h3>
+MCA Graduate | 🌱 Fresher passionate about Full Stack Development 💻 & Software Testing 🧪 | ⚡ Eager to learn, innovate 💡, and contribute 🚀
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
@@ -15,11 +16,6 @@
 - 👨‍💻 I’m looking for a Job **Developer & Testing**
 
 - 📫 How to reach me **kannan.sureshsasi@gmail.com**
-
-- 🦄 My Portfolio [https://kannan-s.carrd.co](https://kannan-s.carrd.co)
-
-- 🌐 My Hacker Rank [https://www.hackerrank.com/Kannan_Suresh](https://www.hackerrank.com/Kannan_Suresh)
-
 
 
 <h3 align="left">Connect with me:</h3>
