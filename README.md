@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Kannan 👋</h1>
-<div align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
+<div align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
 
 <h3 align="left">About Me:</h3>
 
@@ -36,5 +36,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kannan-sureshsasi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kannan-Sureshsasi&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kannan-suresh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400"/>
 </div>
