@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! I'm Kannan 👋</h1>
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" alt="Typing SVG"/>
 </div>
 <h3 align="left">About Me:</h3>
