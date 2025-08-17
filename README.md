@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Kannan 👋</h1>
-<div align="center"> <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
+<div align="center" style="padding-left:40px;"> <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
 
 <h3 align="left">About Me:</h3>
 
@@ -38,4 +38,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannan-sureshsasi&show_icons=true&locale=en&layout=compact" alt="kannan-sureshsasi" />
 </p>
 
-<div align="right">[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannan-suresh&show_icons=true&theme=radical)]()</div>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=kannan-suresh&show_icons=true&theme=radical" />
+</p>
