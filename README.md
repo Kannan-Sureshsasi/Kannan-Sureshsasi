@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development & Testing**
 
-- 🎓 I’m recently graduated from **MCA Chennai**
+- 🎓 I’m currently pursuing an **MCA** in Chennai
 
 - 👨‍💻 I’m looking for a Job **Developer & Testing**
 
