@@ -17,7 +17,7 @@
 
 - 👨‍💻 I’m looking for a Job **Developer & Testing**
 
-- 📫 How to reach me **kannan.sureshsasi@gmail.com**
+- 📫 Reach me **kannan.sureshsasi@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
