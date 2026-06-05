@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development & Testing**
+- 🌱 I’m currently learning **Development & Testing**
 
 - 🎓 I’m currently pursuing an **MCA** in Chennai
 
