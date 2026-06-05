@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=0&color=7DB0FB&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Kannan" alt="Kannan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=0&color=7DB0FB&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Kannan&repeat=false" alt="Kannan" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 </h1>
+
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" alt="Typing SVG"/>
