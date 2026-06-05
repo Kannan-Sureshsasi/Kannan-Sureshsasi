@@ -14,8 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" /> </p>
-<a href="YOUR_GOOGLE_DRIVE_RESUME_LINK" target="_blank"><img src="https://img.shields.io/badge/Resume-E4405F?style=flat" alt="Resume" align="middle" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" /> <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK" target="_blank"><img src="https://img.shields.io/badge/Resume-E4405F?style=flat" alt="Resume" align="middle" /></a> </p>
 
 - 🌱 I’m currently learning **Development & Testing**
 
