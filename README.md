@@ -5,8 +5,9 @@
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; vertical-align: middle; font-size: 24px; margin-right: -4px;">😊</span><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!" alt="Typing SVG" style="display: inline-block; vertical-align: middle;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%F0%9F%98%8AWelcome+to+My+Profile!" alt="Typing SVG"/>
 </div>
+
 
 <h3 align="left">About Me:</h3>
 
