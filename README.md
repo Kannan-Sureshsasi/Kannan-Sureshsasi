@@ -22,9 +22,7 @@
 
 - 👨‍💻 I’m looking for a Job **Developer & Testing**
 
-- 📫 Reach me <a href="mailto:kannan.sureshsasi@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
+- 📫 Reach me <a href="mailto:kannan.sureshsasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" align="middle" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
