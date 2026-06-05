@@ -12,7 +12,7 @@
 <h3 align="center">🎓 MCA Graduate | Passionate about Development 💻 and QA Testing.</h3>
 <p align="center">Im learning new technologies, and eager to contribute my skills in a dynamic team. 🚀</p>
 
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" /> </p>
 
