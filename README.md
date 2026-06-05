@@ -5,8 +5,9 @@
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%8A" alt="Typing SVG"/>
-</div> 
+  <span style="display: inline-block; vertical-align: middle; font-size: 24px; margin-right: -4px;">😊</span><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!" alt="Typing SVG" style="display: inline-block; vertical-align: middle;"/>
+</div>
+
 <h3 align="left">About Me:</h3>
 
 <h3 align="center">🎓 MCA Graduate | Passionate about Development 💻 and QA Testing.</h3>
