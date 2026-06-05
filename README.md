@@ -5,8 +5,8 @@
 </div>
 <h3 align="left">About Me:</h3>
 
-<h3 align="center">🎓 MCA Graduate ('26) | Passionate Full-Stack Developer & QA Automation Engineer 🚀</h3>
-<p align="center">Dedicated to building efficient software solutions, mastering modern automation frameworks, and contributing technical expertise to a dynamic engineering team.</p>
+<h3 align="center">🎓 MCA Graduate | Passionate about Development 💻 and QA Testing 🧪.</h3>
+<p align="center">Im learning new technologies, and eager to contribute my skills in a dynamic team. 🚀</p>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
