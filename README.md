@@ -26,7 +26,7 @@
 
 - 🎓 I’m currently pursuing an **MCA** in Chennai
 
-- 👨‍💻 I’m looking for a Job **Developer & Testing**
+- 👨‍💻 I’m looking for a **Software Developer or QA Testing** job
 
 - 📫 Reach me <a href="mailto:kannan.sureshsasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" align="middle" /></a>
 
