@@ -57,9 +57,8 @@
 ### 📚 Currently Learning:
 
 <pre>
-📝 <b>Manual Testing</b> → Test Case Design, Agile Methodologies
-⚙️ <b>QA Automation</b>  → Playwright, Selenium WebDriver, TestNG
-🌐 <b>API Testing</b>    → Postman, RestAssured
+📝 <b>Manual Testing</b> → Test Case Design
+⚙️ <b>QA Automation</b>  → Playwright, Selenium WebDriver
 🗄️ <b>Databases</b>      → SQL, MySQL
 📋 <b>Core Concepts</b>  → SDLC, STLC, Bug Reporting
 </pre>
