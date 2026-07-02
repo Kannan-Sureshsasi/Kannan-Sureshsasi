@@ -37,7 +37,7 @@
 </table>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect with me:</h3>
 <p align="left">
   
 - 📫 How to reach me :) [![Linkedin Badge](https://img.shields.io/badge/-Kannan%20S-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kannan-suresh/)  
