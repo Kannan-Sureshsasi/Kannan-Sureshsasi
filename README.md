@@ -24,13 +24,13 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <p>- 🌱 I’m currently learning **Development & Testing**</b></p>
-      <p>- 🎓 I’m currently pursuing an **MCA** in Chennai</b></p>
-      <p>- 👨‍💻 I’m looking for a **Software Developer or QA Testing** job</p>
-      <p>- 📫 Reach me <a href="mailto:kannan.sureshsasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" align="middle" /></a></p>
+    <td width="55%" valign="top">
+      <p>🌱 I’m currently focusing on <b>Software Testing (Manual & Automation)</b></p>
+      <p>🎓 Recent <b>MCA Graduate</b> based in Chennai</p>
+      <p>👨‍💻 Actively seeking roles as a <b>QA Engineer / Software Tester</b></p>
+      <p>📫 Reach me via: <a href="mailto:kannan.sureshsasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" /></a></p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="45%" valign="top" align="center">
       <img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation">
     </td>
   </tr>
