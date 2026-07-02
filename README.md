@@ -37,7 +37,7 @@
 </table>
 
 
-<h3 align="left">Let's Connect with me:</h3>
+<h3 align="left">🤝Let's Connect with me:</h3>
 <p align="left">
   
 - 📫 How to reach me :) [![Linkedin Badge](https://img.shields.io/badge/-Kannan%20S-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kannan-suresh/)  
@@ -53,9 +53,9 @@
 
 - 💻 Fun-fact:
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark) 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
