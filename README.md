@@ -9,12 +9,10 @@
 </div>
  
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">🚀 About Me:</h3>
 
 <h3 align="center">🎓 MCA Graduate | Passionate about Development 💻 and QA Testing.</h3>
 <p align="center">Im learning new technologies, and eager to contribute my skills in a dynamic team. 🚀</p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" height="28" align="middle" />
@@ -24,13 +22,19 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Development & Testing**
-
-- 🎓 I’m currently pursuing an **MCA** in Chennai
-
-- 👨‍💻 I’m looking for a **Software Developer or QA Testing** job
-
-- 📫 Reach me <a href="mailto:kannan.sureshsasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" align="middle" /></a>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p>- 🌱 I’m currently learning **Development & Testing**</b></p>
+      <p>- 🎓 I’m currently pursuing an **MCA** in Chennai</b></p>
+      <p>- 👨‍💻 I’m looking for a **Software Developer or QA Testing** job</p>
+      <p>- 📫 Reach me <a href="mailto:kannan.sureshsasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" align="middle" /></a></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
