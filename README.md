@@ -93,6 +93,6 @@
 
 <!-- Thank You Note Section -->
 <div align="center" style="margin-bottom: 20px;">
-  <h3>✨ Thank you for visiting! ✨</h3>
+  <h3>Thank you for visiting! </h3>
   <p>Feel free to explore my repositories, check out my projects, or reach out to connect. Let's build something defect-free together! 🤝</p>
 </div>
