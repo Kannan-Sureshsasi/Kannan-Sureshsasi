@@ -38,7 +38,7 @@
   
 - 📫 How to reach me :) [![Linkedin Badge](https://img.shields.io/badge/-Kannan%20S-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kannan-suresh/)  
 
-- 🦄 My Portfolio :) [![Portfolio Badge](https://kannan-s-portfolio.netlify.app)  
+- 🦄 My Portfolio :) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-teal?style=flat&logo=netlify&logoColor=white)](https://kannan-s-portfolio.netlify.app)
 
 - 🌐 My Hacker Rank :) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/Kannan_Suresh)  
 
