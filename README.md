@@ -79,7 +79,7 @@
 📋 <b>Core Concepts</b>  → SDLC, STLC, Bug Reporting
 </pre>
 
-### 📊 Git Insights & Statistics
+### 📊 Git Insights & Statistics:
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=kannan-sureshsasi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
@@ -87,5 +87,5 @@
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=kannan-sureshsasi&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kannan-sureshsasi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
