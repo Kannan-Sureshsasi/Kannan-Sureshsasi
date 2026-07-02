@@ -86,9 +86,15 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kannan-sureshsasi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<!-- Animated QA Terminal Loader -->
+<div align="center" style="margin-top: 30px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA5FF&center=true&vCenter=true&width=600&height=60&lines=Initializing+Automation+Framework...;Running+Selenium+%26+Playwright+Suites...;Locating+Web+Elements...+%E2%9C%94;Assertions+Passed!+%F0%9F%92%9A;0+Bugs+Found.+Ready+to+Deploy!+%F0%9F%9A%80" alt="QA Automation Typing SVG" />
 </div>
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannan-sureshsasi&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
+<hr style="border: 1px dashed #444; margin: 40px 0 20px 0;" />
+
+<!-- Thank You Note Section -->
+<div align="center" style="margin-bottom: 20px;">
+  <h3>✨ Thank you for visiting my profile! ✨</h3>
+  <p>Feel free to explore my repositories, check out my projects, or reach out to connect. Let's build something defect-free together! 🤝</p>
 </div>
