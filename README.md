@@ -25,7 +25,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <p>🌱 <b>Current Focus:</b> Software Testing (Manual & Automation)</p>
+      <p>🎯 <b>Current Focus:</b> Software Testing (Manual & Automation)</p>
       <p>🎓 <b>Education:</b> Recent MCA Graduate based in Chennai</p>
       <p>👨‍💻 <b>Career Goal:</b> Actively seeking roles as a QA Engineer / Software Tester</p>
       <p>📫 <b>Contact:</b> Reach me via: <a href="mailto:kannan.sureshsasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" /></a></p>
