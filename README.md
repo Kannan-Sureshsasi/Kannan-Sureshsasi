@@ -11,7 +11,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 
-<h3 align="center">🎓 **MCA Graduate** | Passionate about **QA Testing & Automation**.</h3>
+<h3 align="center">🎓 MCA Graduate | Passionate about QA Testing & Automation.</h3>
 <p align="center">Im learning new technologies, and eager to contribute my skills in a dynamic team. ✨</p>
 
 <p align="left">
