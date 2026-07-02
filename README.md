@@ -12,13 +12,13 @@
 <h3 align="left">🚀 About Me:</h3>
 
 <h3 align="center">🎓 **MCA Graduate** | Passionate about **QA Testing & Automation**.</h3>
-<p align="center">Im learning new technologies, and eager to contribute my skills in a dynamic team. 🚀</p>
+<p align="center">Im learning new technologies, and eager to contribute my skills in a dynamic team. ✨</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" height="28" align="middle" />
   &nbsp;
   <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-E4405F?style=flat" alt="Resume" height="28" align="middle" />
+    <img src="https://img.shields.io/badge/Resume-E4405F?style=flat" alt="Resume🚀" height="28" align="middle" />
   </a>
 </p>
 
