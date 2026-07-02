@@ -89,3 +89,6 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA5FF&center=true&vCenter=true&width=600&height=60&lines=Initializing+Automation+Framework...;Running+Selenium+%26+Playwright+Suites...;Locating+Web+Elements...+%E2%9C%94;Assertions+Passed!+%F0%9F%92%9A;0+Bugs+Found.+Ready+to+Deploy!+%F0%9F%9A%80" alt="QA Automation Typing SVG" />
 </div>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannan-sureshsasi&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
