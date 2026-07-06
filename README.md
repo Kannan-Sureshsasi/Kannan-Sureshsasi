@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=0&color=7DB0FB&center=true&vCenter=true&width=480&lines=Hello+there!+I'm+Kannan+S&repeat=false" alt="Kannan S" align="middle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=52&duration=1&pause=0&color=00D6E6&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+I'm+Kannan+S&repeat=false" alt="Kannan S" align="middle" />
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" align="middle">
 </h1>
 
