@@ -29,8 +29,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CURRENT_STATUS-ACTIVE_FOR_INTERVIEWS-00E676?style=for-the-badge&labelColor=0F172A">
-    <img alt="Current Status" src="https://img.shields.io/badge/CURRENT_STATUS-ACTIVE_FOR_INTERVIEWS-00E676?style=for-the-badge&labelColor=0F172A">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CURRENT_STATUS-OPEN_TO_WORK-00E676?style=for-the-badge&labelColor=0F172A">
+    <img alt="Current Status" src="https://img.shields.io/badge/CURRENT_STATUS-OPEN_TO_WORK-00E676?style=for-the-badge&labelColor=0F172A">
   </picture>
 </p>
  
