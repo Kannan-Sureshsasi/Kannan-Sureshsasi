@@ -1,6 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=42&duration=1&pause=0&color=00E5FF&center=true&vCenter=true&width=520&height=70&lines=Hi+there!+I'm+KANNAN+S&repeat=false" alt="Hi there! I'm KANNAN S" align="middle" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" align="middle" style="margin-left: -35px;" />
+  <svg width="40px" height="40px" align="middle" style="display: inline-block; vertical-align: middle;">
+    <g transform="matrix(1 0 0 1 -15 0)">
+      <image href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
+    </g>
+  </svg>
 </h1>
 
 <div align="center">
