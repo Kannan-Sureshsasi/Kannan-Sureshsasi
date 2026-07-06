@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=44&duration=1&pause=0&color=00E5FF&center=false&vCenter=true&width=230&height=70&lines=KANNAN+S&repeat=false" alt="KANNAN S" align="middle" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" align="middle" style="margin-left: -5px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=44&duration=1&pause=0&color=00E5FF&center=false&vCenter=true&width=210&height=70&lines=KANNAN+S&repeat=false" alt="KANNAN S" align="middle" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" align="middle" style="margin-left: -12px;" />
 </h1>
 
 <div align="center">
