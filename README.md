@@ -7,6 +7,32 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!" alt="Typing SVG"/>
 </div>
+
+<h3 align="left">🤝Let's Connect with me:</h3>
+<p align="left">
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/kannan-suresh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://kannan-s-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/Kannan_Suresh" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20IN-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CURRENT_STATUS-ACTIVE_FOR_INTERVIEWS-00E676?style=for-the-badge&labelColor=0F172A">
+    <img alt="Current Status" src="https://img.shields.io/badge/CURRENT_STATUS-ACTIVE_FOR_INTERVIEWS-00E676?style=for-the-badge&labelColor=0F172A">
+  </picture>
+</p>
  
 
 <h3 align="left">🚀 About Me:</h3>
@@ -35,33 +61,6 @@
     </td>
   </tr>
 </table>
-
-
-<h3 align="left">🤝Let's Connect with me:</h3>
-<p align="left">
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/kannan-suresh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://kannan-s-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/Kannan_Suresh" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20IN-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CURRENT_STATUS-ACTIVE_FOR_INTERVIEWS-00E676?style=for-the-badge&labelColor=0F172A">
-    <img alt="Current Status" src="https://img.shields.io/badge/CURRENT_STATUS-ACTIVE_FOR_INTERVIEWS-00E676?style=for-the-badge&labelColor=0F172A">
-  </picture>
-</p>
 
 - 📦 Contribution :) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)  
 </p>
