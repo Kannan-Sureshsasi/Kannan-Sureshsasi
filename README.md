@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=34&duration=1&pause=0&color=00E5FF&center=true&vCenter=true&width=550&height=70&lines=Hello+there!+I'm+Kannan+S&repeat=false" alt="Kannan S" align="middle" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" align="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=44&duration=1&pause=0&color=00E5FF&center=true&vCenter=true&width=500&height=80&lines=KANNAN+S+👋&repeat=false" alt="KANNAN S 👋" align="middle" />
 </h1>
 
 <div align="center">
