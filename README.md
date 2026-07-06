@@ -1,7 +1,7 @@
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 0px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=44&duration=1&pause=0&color=00E5FF&center=false&vCenter=true&width=230&height=80&lines=KANNAN+S&repeat=false" alt="KANNAN S" style="vertical-align: middle;" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" style="vertical-align: middle; margin-left: -5px;" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=800&size=44&duration=1&pause=0&color=00E5FF&center=true&vCenter=true&width=240&height=70&lines=KANNAN+S&repeat=false" alt="KANNAN S" align="middle" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" align="middle" style="margin-left: 5px;" />
+</h1>
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
