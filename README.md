@@ -43,7 +43,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kannan-sureshsasi&label=Profile%20views&color=0e75b6&style=flat" alt="kannan-sureshsasi" height="28" align="middle" />
   &nbsp;
-   <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK" target="_blank">
+   <a href="[YOUR_GOOGLE_DRIVE_RESUME_LINK](https://drive.google.com/file/d/18S2U0Tr-2LO22Mi87xs9BDP4ijlliSKO/view?usp=sharing)" target="_blank">
      <img src="https://img.shields.io/badge/Resume-E4405F?style=flat" alt="Resume" height="28" align="middle" />
 </a>
 </p>
