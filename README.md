@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!" alt="Typing SVG"/>
 </div>
 
-<h3 align="left">🤝Let's Connect</h3>
+<h3 align="left">🤝Let's Connect:</h3>
 <p align="left">
   
 <p align="center">
