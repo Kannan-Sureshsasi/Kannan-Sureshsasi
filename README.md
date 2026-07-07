@@ -107,6 +107,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA5FF&center=true&vCenter=true&width=600&height=60&lines=Initializing+Automation+Framework...;Running+Selenium+%26+Playwright+Suites...;Locating+Web+Elements...+%E2%9C%94;Assertions+Passed!+%F0%9F%92%9A;0+Bugs+Found.+Ready+to+Deploy!+%F0%9F%9A%80" alt="QA Automation Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=120&section=header&text=The%20QA%20Mindset&fontSize=30" alt="Header" />
+</p>
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="padding: 20px; background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
+        <marquee behavior="scroll" direction="up" scrollamount="2" height="120px" onmouseover="this.stop();" onmouseout="this.start();">
+          <p align="center" style="font-size: 16px; font-family: monospace; color: #58a6ff;">
+            "If you don’t care about quality, you can meet any deadline." <br>
+            <strong style="color: #8b949e;">— Jerry Weinberg</strong>
+          </p>
+          <br>
+          <p align="center" style="font-size: 16px; font-family: monospace; color: #58a6ff;">
+            "Testing is an infinite process of comparing the invisible to the ambiguous." <br>
+            <strong style="color: #8b949e;">— James Bach</strong>
+          </p>
+          <br>
+          <p align="center" style="font-size: 16px; font-family: monospace; color: #58a6ff;">
+            "Quality means doing it right when no one is looking." <br>
+            <strong style="color: #8b949e;">— Henry Ford</strong>
+          </p>
+          <br>
+          <p align="center" style="font-size: 16px; font-family: monospace; color: #58a6ff;">
+            "More than the act of testing, the act of designing tests is one of the best bug preventers known." <br>
+            <strong style="color: #8b949e;">— Boris Beizer</strong>
+          </p>
+          <br>
+          <p align="center" style="font-size: 16px; font-family: monospace; color: #58a6ff;">
+            "Program testing can be used to show the presence of bugs, but never to show their absence!" <br>
+            <strong style="color: #8b949e;">— Edsger W. Dijkstra</strong>
+          </p>
+          <br>
+          <p align="center" style="font-size: 16px; font-family: monospace; color: #58a6ff;">
+            "Don't document baggage; document value." <br>
+            <strong style="color: #8b949e;">— Michael Bolton (Software Tester)</strong>
+          </p>
+        </marquee>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- Thank You Note Section -->
 <div align="center" style="margin: 40px 0;">
   <p style="color: #8b949e; font-size: 1.1em; max-width: 500px; margin: 0 auto; line-height: 1.6;">
