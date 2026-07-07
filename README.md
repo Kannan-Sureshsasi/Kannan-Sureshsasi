@@ -109,8 +109,7 @@
 
 <!-- Thank You Note Section -->
 <div align="center" style="margin: 40px 0;">
-  <h2>Thanks for stopping by.</h2>
   <p style="color: #8b949e; font-size: 1.1em; max-width: 500px; margin: 0 auto; line-height: 1.6;">
-    Exploring systems, building products, and ensuring defect-free code. Let's collaborate.
+    Thanks for visiting! Feel free to explore my projects and connect. Let's build something flawless together! 🤝
   </p>
 </div>
