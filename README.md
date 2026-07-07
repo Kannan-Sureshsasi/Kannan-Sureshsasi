@@ -107,11 +107,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA5FF&center=true&vCenter=true&width=600&height=60&lines=Initializing+Automation+Framework...;Running+Selenium+%26+Playwright+Suites...;Locating+Web+Elements...+%E2%9C%94;Assertions+Passed!+%F0%9F%92%9A;0+Bugs+Found.+Ready+to+Deploy!+%F0%9F%9A%80" alt="QA Automation Typing SVG" />
 </div>
 
+<!-- Animated QA Quotes -->
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td style="padding: 20px; background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; text-align: center;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4500&pause=2000&color=58a6ff&center=true&vCenter=true&width=750&height=60&lines=%22If+you+don't+care+about+quality%2C+you+can+meet+any+deadline.%22+%E2%80%94+Jerry+Weinberg;%22Testing+is+an+infinite+process+of+comparing+the+invisible+to+the+ambiguous.%22+%E2%80%94+James+Bach;%22Quality+means+doing+it+right+when+no+one+is+looking.%22+%E2%80%94+Henry+Ford;%22Designing+tests+is+one+of+the+best+bug+preventers+known.%22+%E2%80%94+Boris+Beizer;%22Testing+shows+the+presence+of+bugs%2C+never+their+absence!%22+%E2%80%94+Edsger+W.+Dijkstra;%22Don't+document+baggage%3B+document+value.%22+%E2%80%94+Michael+Bolton" alt="QA Quotes" />
+      <td style="padding: 25px; background-color: #0d1117; border-radius: 12px; border: 1px solid #30363d; text-align: center;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=4000&pause=2500&color=2ea44f&center=true&vCenter=true&width=750&height=50&lines=%22If+you+don't+care+about+quality%2C+you+can+meet+any+deadline.%22+%E2%80%94+J.+Weinberg;%22Testing+is+comparing+the+invisible+to+the+ambiguous.%22+%E2%80%94+James+Bach;%22Quality+means+doing+it+right+when+no+one+is+looking.%22+%E2%80%94+Henry+Ford;%22Designing+tests+is+the+best+bug+preventer+known.%22+%E2%80%94+Boris+Beizer;%22Testing+shows+the+presence+of+bugs%2C+never+their+absence!%22+%E2%80%94+E.+Dijkstra;%22Don't+document+baggage%3B+document+value.%22+%E2%80%94+Michael+Bolton" alt="QA Quotes" />
       </td>
     </tr>
   </table>
